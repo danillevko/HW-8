@@ -1,0 +1,21 @@
+h3:hover {
+    font-size: larger;
+}
+
+#greycol{
+    color: grey;
+}
+
+.yellow{
+    color: yellow;
+}
+
+h3:first-child{
+    color: pink;
+}
+
+
+p:last-child{
+    color: green;
+}
+
